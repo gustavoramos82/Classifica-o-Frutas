@@ -64,6 +64,8 @@ Quanto as frutas um teve um bom desempenho nos três, conforme pode ser visto ab
 
 Podemos ver que não temos quase nada de perda de perfomace quanto considerando todas as 35 colunas, e todos os 3 modelos teve uma boa perfomace, com muita pouca diferença nos resultados.
 
+Olhando par ao outro dataframe, temos os seguintes resultados:
+
 ![output](https://user-images.githubusercontent.com/39843884/167827250-4cf9efb5-c553-4685-b191-0316f97fc828.png)
 
 Olhando as metricas, temos os seguintes resultados:
